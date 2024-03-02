@@ -2,7 +2,8 @@ body {                  /* Element selector */
     margin: 8px;
     padding: 16px;
     display: block; 
-    background-color:#bacbdf
+    background-color:#bacbdf;
+    font-family: 'Roboto', sans-serif;
 }
 
 article {
@@ -42,6 +43,10 @@ img {
 }
 
 article {
-    border: 6px solid #666666; /* Adds a gray border around articles */
+    border: 5px solid #666666; /* Adds a gray border around articles */
     padding: 10px; /* Adds padding inside the border */
+}
+
+#webDevText {
+    font-style: italic;
 }

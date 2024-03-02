@@ -2,7 +2,7 @@ body {                  /* Element selector */
     margin: 8px;
     padding: 16px;
     display: block; 
-    background-color:#bacbdf;
+    background-color:#dfdfdf;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -22,7 +22,7 @@ article {
 }
 
 header {
-    background-color: #bacbdf;
+    background-color: #dfdfdf;
     padding: 20px;
     text-align: center;
     color: black;
@@ -30,7 +30,7 @@ header {
 }
 
 footer {
-    background-color: #bacbdf;
+    background-color: #dfdfdf;
     color: black;
     padding: 20px;
     text-align: center;

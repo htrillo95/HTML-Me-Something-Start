@@ -10,7 +10,7 @@ article {
     margin-bottom: 20px; /* Adds margin between articles */
 }
 
-#mainHeading {          /* ID Selector */
+#mainHeading {          /* ID Selector/Header */
     color: red;
     font-size: 36px;
     text-align: center;
